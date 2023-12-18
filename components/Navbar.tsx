@@ -20,7 +20,7 @@ const Navbar = () => {
             alt="Scrappie"
           />
           <p className="nav-logo">
-            Scrapp<span className="text-red-500">ie</span>
+            Scrapp<span className="text-primary">ie</span>
           </p>
         </Link>
         <div className="flex items-center gap-5">
